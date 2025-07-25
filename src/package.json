@@ -1,0 +1,20 @@
+{
+  "name": "ballistics-calculator-app",
+  "version": "1.0.0",
+  "description": "A web application for calculating ballistics, including bullet drop, time of flight, and wind drift.",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "live-server src"
+  },
+  "keywords": [
+    "ballistics",
+    "calculator",
+    "physics",
+    "projectile"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "chart.js": "^4.4.1"
+  }
+}
